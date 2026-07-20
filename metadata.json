@@ -1,0 +1,6 @@
+{
+  "name": "ToolNest",
+  "description": "Simple, fast and AI-powered online tools for creators, students and professionals. Completely secure, private, and running entirely at the edge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
